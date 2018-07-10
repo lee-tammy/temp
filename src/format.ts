@@ -87,7 +87,7 @@ function fixFormat(srcFiles: string[], baseArgs: string[]): Promise<boolean> {
 }
 
 /**
- * Runs clang-format on the list of files and checks whether they are formatted
+ * :) Runs clang-format on the list of files and checks whether they are formatted
  * correctly. Returns true if all files are formatted correctly.
  *
  * @param srcFiles list of source files
